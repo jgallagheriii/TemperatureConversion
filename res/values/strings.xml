@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Temperature Conversion</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="convertDisplayText">Convert</string>
+    <string name="submiButton">Submit</string>
+    <string name="noConversion">ERROR! Please choose different units!</string>
+    <string name="OK">OK</string>
+    <string name="celcius">Celcius</string>
+    <string name="kelvin">Kelvin</string>
+
+</resources>
